@@ -1,1 +1,2 @@
+This Exploratory Data Analysis (EDA) project uses Python to examine and understand a dataset through data cleaning, statistical analysis, and visualization. The project focuses on exploring data structure, identifying missing values and outliers, discovering trends and relationships between variables, testing assumptions, detecting anomalies, and extracting meaningful insights that can support further analysis and data-driven decision-making.
 
